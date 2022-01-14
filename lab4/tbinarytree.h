@@ -1,6 +1,6 @@
 
-#ifndef LAB1_TBINARYTREE_H
-#define LAB1_TBINARYTREE_H
+#ifndef TBINARYTREE_H
+#define TBINARYTREE_H
 #include "tbinarytreeitem.h"
 // В каждой вершине двоичного дерева хранится фигура и счетчик.
 // Если в структуру добавляется фигура, которая уже есть,
