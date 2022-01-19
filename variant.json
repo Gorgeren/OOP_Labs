@@ -1,0 +1,21 @@
+{
+	"variant": 13,
+	"figures": [
+		"Rhombus",
+		"Pentagon",
+		"Hexagon"
+	],
+	"containers": [
+		"TBinaryTree",
+		"TVector"
+	],
+	"finished_labs": {
+		"lab0.1:": "oop_exercise_01",
+		"lab0.2:": "oop_exercise_02",
+		"lab1:": "lab3",
+		"lab2:": "lab4",
+		"lab3:": "lab5",
+		"lab4:": "lab6"
+	},
+	"reports": []
+}
